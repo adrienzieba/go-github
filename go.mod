@@ -1,4 +1,4 @@
-module github.com/adrienzieba/go-github/v997
+module github.com/adrienzieba/go-github
 
 require (
 	github.com/golang/protobuf v1.3.2 // indirect
